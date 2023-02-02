@@ -3,7 +3,7 @@
     margin: 0px;
 }
 
-nav {
-    background-image: url(./images/bg1.jpg);
-    
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.6), rgba(0, 0, 255, 0.8)), url(./images/bg1.jpg);
+    background-size: 100% 100%;
 }
