@@ -4,6 +4,6 @@
 }
 
 .banner {
-    background-image: linear-gradient(rgba(0, 0, 255, 0.6), rgba(0, 0, 255, 0.8)), url(./images/bg1.jpg);
+    background-image: linear-gradient(rgb(0, 107, 132), rgba(0, 0, 0, 0.6)), url(./images/bg1.jpg);
     background-size: 100% 100%;
 }
